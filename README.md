@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Bibhabasu Dutta 👋
 
-<!--
-**Bibhabasu-Chem/Bibhabasu-Chem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my academic portfolio! I am a passionate Chemist specializing in **Theoretical and Computational Chemistry**, with a strong interest in understanding molecular systems through mathematical modeling and simulations.
 
-Here are some ideas to get you started:
+## 🎓 Education
+- **M.Sc. in Chemistry** | Banaras Hindu University (BHU), Varanasi |*2025*
+- **B.Sc. in Chemistry (Honours)** | Ravenshaw University, Cuttack | *2022*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔬 Research Interests
+- **Statistical Mechanical Modeling** of complex liquids.
+- **Rare-earth Liquid Metals** and their thermodynamic properties.
+- **Quantum Chemical Calculations** using ORCA and Gaussian.
+- Developing numerical solutions using **Fortran**.
+
+## 💻 Technical Skills
+- **Computational Tools:** ORCA, Gaussian, Multiwfn.
+- **Languages:** Fortran, Python (Learning), Bash Scripting.
+- **Operating Systems:** Linux (Ubuntu/Xubuntu), Windows.
+- **Data Analysis:** OriginPro, Gnuplot, Microsoft Excel.
+
+## 📁 Ongoing Projects
+- **[Theoretical Sound Velocity Determination of Inner Transition Metals using Statistical Thermodynamical & Computational Approach]:** Modeling of rare-earth liquid systems (Numerical analysis scripts in Fortran).
+- **ORCA Input Gallery:** A collection of optimized input files for various molecular systems.
+
+## 📚 Beyond Chemistry
+- Passionate about **Odia Literature** and **creative song writing**.
+- Cricket enthusiast and keen observer of sports statistics.
+
+---
+📫 **How to reach me:** [duttabibhabasu@gmail.com]
