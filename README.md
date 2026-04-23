@@ -14,7 +14,8 @@ Welcome to my academic portfolio! I am a passionate Chemist specializing in **Th
 
 ## 💻 Technical Skills
 - **Computational Tools:** ORCA, Gaussian, Multiwfn.
-- **Languages:** Fortran, Python (Learning), Bash Scripting.
+- **Languages:** Fortran, Python (NumPy & Matplotlib), Bash Scripting.
+- **Machine Learning:** Exploratory ML Analysis of particle configurations in Model Systems (K-Means, DBCSAN)
 - **Operating Systems:** Linux (Ubuntu/Xubuntu), Windows.
 - **Data Analysis:** OriginPro, Gnuplot, Microsoft Excel.
 
